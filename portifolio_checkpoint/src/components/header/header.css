@@ -1,0 +1,15 @@
+.headerConteiner {
+    position: fixed;
+    display: flex;
+    justify-content: baseline;
+};
+
+.logo {
+    width: 10px;
+}
+
+.menuList {
+    text-decoration: none;
+}
+
+
